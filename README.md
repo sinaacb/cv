@@ -1,3 +1,3 @@
 # cv
 
-Teying to create a simple website which showcase resume
+Trying to create a simple website which showcase resume
